@@ -1,0 +1,3 @@
+My understanding is that Cloud Engineering focuses on building, configuring, securing, and maintaining the infrastructure required to run applications reliably in the cloud. It involves services such as compute, networking, storage, databases, IAM, monitoring, and cost optimization.
+
+DevOps is about connecting development and operations through automation, collaboration, continuous integration and continuous delivery (CI/CD), infrastructure as code, monitoring, and reliable deployment practices.
