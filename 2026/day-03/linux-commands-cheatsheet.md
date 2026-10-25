@@ -88,5 +88,6 @@ Service Failure
 - Use `sudo` only when necessary and when you have permission.
 
 6. New commands I find I will put here
-   python3 | Execute the Python 3 interpreter or run Python scripts. | this is used to run code file in linux terminal for python
+
+   - python3 | Execute the Python 3 interpreter or run Python scripts. | this is used to run code file in linux terminal for python
 
