@@ -92,6 +92,9 @@ Service Failure
    - python3 | Execute the Python 3 interpreter or run Python scripts. | this is used to run code file in linux terminal for python
 
 -View all logs: journalctl
+
 -Follow logs in real-time (live stream): journalctl -f
+
 -View recent errors and details (highly popular for troubleshooting): journalctl -xe
+
 -Check logs for a specific service (e.g., Nginx or SSH): journalctl -u nginx
